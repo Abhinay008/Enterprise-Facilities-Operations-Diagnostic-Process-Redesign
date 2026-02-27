@@ -1,6 +1,5 @@
 # Enterprise-Facilities-Operations-Diagnostic-Process-Redesign
 
-# Enterprise Facilities Operations Diagnostic & Process Redesign
 
 ## Overview
 This project simulates an end-to-end operational diagnostic of multi-site commercial facilities operations.  
