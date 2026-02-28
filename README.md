@@ -21,7 +21,7 @@ This case study is modeled on enterprise Commercial Real Estate (CRE) environmen
 ## Tech Stack
 - **SQL (MySQL)** – Data cleaning and analytical modeling  
 - **Power BI** – Operational diagnostics and visualization  
-- **Visio / Lucidchart** – Process mapping (current vs future state)  
+- **Lucidchart** – Process mapping (current vs future state)  
 - **Business Analysis Frameworks** – Pareto, 5 Whys, failure mode mapping  
 
 ---
@@ -70,7 +70,7 @@ The project includes:
 ---
 
 ## Status
-🚧 Work in Progress – Actively being finalized and documented.
+🚧 Work in Progress – Actively being documented.
 
 ---
 
